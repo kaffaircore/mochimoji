@@ -1,9 +1,19 @@
 # MochiMoji
 
-Upcoming free and open source emoji libary for everyone!
+**Upcoming free and open source emoji library for everyone!**
 
-<img width="377" height="439" alt="image" src="https://github.com/user-attachments/assets/c045d7b4-8290-489e-bc6a-9a8ef7b79966" />
+# Current Status: Under Development (Pre-release)
+MochiMoji is a **one-man passion project.** I'm currently designing the first initial set of emojis. Keep an eye on this repo for the first official release!
+
+### 📅 Roadmap
+I am currently working on the first set of emojis. Once they are done, the v0.1 early access will be release.
+
+
+<img width="4756" height="4719" alt="Untitled" src="https://github.com/user-attachments/assets/2fe0bfe9-fc79-4ab1-9c96-76bc04c0161d" />
+
 These guys will be here soon when ready!
+
+Design with ❤️ by Kaffair Core
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
