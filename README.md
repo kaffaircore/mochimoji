@@ -1,4 +1,5 @@
 # MochiMoji
+![Status: WIP](https://img.shields.io/badge/Status-Work_in_Progress-orange) ![Team: Solo](https://img.shields.io/badge/Project-Solo_Creator-ff69b4)
 
 **Upcoming free and open source emoji library for everyone!**
 
